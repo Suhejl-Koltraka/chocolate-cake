@@ -1,0 +1,16 @@
+p{
+    font-style: italic;
+}
+.perberesit{
+    color: white;
+    background-color: brown;
+    font-size: 30px;
+}
+.pergatitja{
+    color: darkblue;
+    background-color: tomato;
+    font-size: 30px;
+}
+span{
+    background-color: yellow;
+}
